@@ -1,4 +1,4 @@
 date
-e cho "good morning"
+echo "good morning"
 #test code
 echo "Hello World"
