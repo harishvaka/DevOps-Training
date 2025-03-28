@@ -1,1 +1,6 @@
-*.py
+#*.py
+*.zip
+*.tar
+*.rar
+*/*/*.zip
+*/*/*.tar
